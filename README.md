@@ -19,7 +19,6 @@ The goal is to demonstrate the application of **Python for data handling and vis
 - Add and store **income/expenses** with category and date.  
 - Calculate and display the **current balance**.  
 - Generate **category breakdowns** (pie chart for expenses).  
-- Plot **monthly income vs expenses** as a trendline.  
 - Save and load transaction history in **CSV format**.  
 - Simple command-line interface for interaction.  
 
