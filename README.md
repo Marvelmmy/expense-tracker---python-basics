@@ -33,14 +33,6 @@ The goal is to demonstrate the application of **Python for data handling and vis
 
 ---
 
-## 📂 Project Structure
-finance_manager/
-│── finance_manager.py   # Main program
-│── expenses.csv         # Example transaction data
-│── README.md            # Documentation
-
----
-
 ## 📊 Example Transactions (CSV Format)
 ```csv
 type,item,amount,category,date,due date
