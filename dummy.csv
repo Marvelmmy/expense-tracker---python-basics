@@ -1,0 +1,11 @@
+type,item,amount,category,date,due date
+income,Salary,2000,Job,2025-09-01,
+income,Freelance Project,500,Job,2025-09-10,
+expense,Coffee,3.5,Food,2025-09-02,2025-09-05
+expense,Groceries,120,Food,2025-09-03,2025-09-04
+expense,Electric Bill,60,Utilities,2025-09-04,2025-09-10
+expense,Netflix,15,Entertainment,2025-09-07,2025-09-14
+income,Gift,100,Other,2025-09-12,
+expense,Bus Ticket,2.5,Transport,2025-09-05,2025-09-06
+expense,Book,25,Education,2025-09-08,2025-09-15
+expense,Phone Bill,30,Utilities,2025-09-09,2025-09-16
